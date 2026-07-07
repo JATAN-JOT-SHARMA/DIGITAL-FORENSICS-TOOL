@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-ForenX AI - Complete Digital Forensics Tool
-Moved out of the standard library so the system tkinter package can
-be repaired separately. Run this file to start the ForenX application
-directly (after ensuring `tkinter` is available in the Python runtime).
-"""
 
 import os
 import sys
