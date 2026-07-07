@@ -1,7 +1,6 @@
 import json
 from pathlib import Path
 
-
 class ReportGenerator:
 
     def __init__(self, data, logger):
