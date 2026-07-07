@@ -1,8 +1,3 @@
-# Backup of overwritten tkinter __init__.py
-# This file was copied from your Python installation's tkinter package
-# It appears to contain your ForenX application code and was accidentally
-# placed in the standard library location. Keep this backup safe.
-
 #!/usr/bin/env python3
 """
 ForenX AI - Complete Digital Forensics Tool
